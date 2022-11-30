@@ -5,7 +5,7 @@ ID, Passport and Visa Scanner (MRZ)
 
 
 This library is an easy to use Android machine-readable zone scanner. This library uses machine learning in order to recognize data from the document. It can find the name, surname, country code, date of birth, document type, and document ID.
-
+Pass
 It is blazing fast, stable, effortless, efficient and will deal with complex scanning algorithms for you!
 ## Table of contents
 
