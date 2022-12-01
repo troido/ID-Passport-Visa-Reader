@@ -134,7 +134,7 @@ And then you simply start the scanner. As simple as that.
         }).startCamera(binding.scannerContainer, lifecycleScope, lifecycleOwner)
 ```
 ## Reporting Issues
-Found a bug on a specific feature? Please share by opening an issue on  [Github/ change url tu](https://github.com/troido/bless-howto/issues).
+Found a bug on a specific feature? Please share by opening an issue on  [Github](https://github.com/troido/ID-Passport-Visa-Reader/issues).
 ## License
 MRZ Scanner is a licensed software. You can use it for free without any restrictions in debug mode. For production apps you need to contact us and get a License Key. We also provide special offers for Open-Source software.
 ## Contact Us
