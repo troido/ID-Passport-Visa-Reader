@@ -55,7 +55,7 @@ allprojects {
         jcenter()
         // Add MRZ Scanner Repository
         maven{
-            url "https://troidosimvelop.jfrog.io/artifactory/troido-gradle-release"
+            url "https://troido.jfrog.io/artifactory/troido-gradle-release"
         }
 }
 ```

@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IdPassportVisareader"
         tools:targetApi="31">
+        <meta-data
+            android:name="troido_license"
+            android:value="BbEXhw0FpRm0a0+QGApJM0wsWrk5vvv4nr4yx+6ADtz6nHM6rVR+TuOaaEufJ2gjOQdbugSAz/Z1gX/k+Nvy29EExrMqWwrL8oTsYPRsTNwnYAxH05XPHsRBHdJURR+BEmHutAgLxiFRTl0ScDcd9nSETS1Qj54vuTETgUlFn7WvhehcNpXFXkxWlvW9GdCky8oygOK5oyHHVo84B0V0PHjm73IYjQ8XTOyiw+LSJwRdf1sfrc2kWOsGrxqOOlwItx3BQNVfFu/Q0GYJqts381h9ifOeiG34Q/JhexVkTYgF9nVQ4MLqeB0kwBe7dmBhCa1J6aVdbBK2Red/Uz1v0w==" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

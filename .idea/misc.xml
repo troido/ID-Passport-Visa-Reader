@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CiFilterState">
+    <option name="selectedSeverities">
+      <map>
+        <entry key="Critical" value="true" />
+        <entry key="High" value="true" />
+        <entry key="Medium" value="true" />
+        <entry key="Low" value="true" />
+        <entry key="Information" value="true" />
+        <entry key="Unknown" value="true" />
+        <entry key="Pending" value="true" />
+        <entry key="Normal" value="true" />
+      </map>
+    </option>
+    <option name="selectedLicences">
+      <map />
+    </option>
+    <option name="selectedScopes">
+      <map />
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="LocalFilterState">
+    <option name="selectedSeverities">
+      <map>
+        <entry key="Critical" value="true" />
+        <entry key="High" value="true" />
+        <entry key="Medium" value="true" />
+        <entry key="Low" value="true" />
+        <entry key="Information" value="true" />
+        <entry key="Unknown" value="true" />
+        <entry key="Pending" value="true" />
+        <entry key="Normal" value="true" />
+      </map>
+    </option>
+    <option name="selectedLicences">
+      <map>
+        <entry key="Unknown" value="true" />
+      </map>
+    </option>
+    <option name="selectedScopes">
+      <map>
+        <entry key="AndroidJacocoAnt" value="true" />
+        <entry key="AndroidTestImplementation" value="true" />
+        <entry key="AndroidTestImplementationDependenciesMetadata" value="true" />
+        <entry key="Api" value="true" />
+        <entry key="ApiDependenciesMetadata" value="true" />
+        <entry key="DebugAndroidTestCompileClasspath" value="true" />
+        <entry key="DebugAndroidTestImplementationDependenciesMetadata" value="true" />
+        <entry key="DebugAndroidTestRuntimeClasspath" value="true" />
+        <entry key="DebugApiDependenciesMetadata" value="true" />
+        <entry key="DebugCompileClasspath" value="true" />
+        <entry key="DebugImplementationDependenciesMetadata" value="true" />
+        <entry key="DebugRuntimeClasspath" value="true" />
+        <entry key="DebugUnitTestCompileClasspath" value="true" />
+        <entry key="DebugUnitTestImplementationDependenciesMetadata" value="true" />
+        <entry key="DebugUnitTestRuntimeClasspath" value="true" />
+        <entry key="Implementation" value="true" />
+        <entry key="ImplementationDependenciesMetadata" value="true" />
+        <entry key="KotlinCompilerClasspath" value="true" />
+        <entry key="KotlinKlibCommonizerClasspath" value="true" />
+        <entry key="None" value="true" />
+        <entry key="ReleaseApiDependenciesMetadata" value="true" />
+        <entry key="ReleaseCompileClasspath" value="true" />
+        <entry key="ReleaseImplementationDependenciesMetadata" value="true" />
+        <entry key="ReleaseRuntimeClasspath" value="true" />
+        <entry key="ReleaseUnitTestCompileClasspath" value="true" />
+        <entry key="ReleaseUnitTestImplementationDependenciesMetadata" value="true" />
+        <entry key="ReleaseUnitTestRuntimeClasspath" value="true" />
+        <entry key="TestImplementation" value="true" />
+        <entry key="TestImplementationDependenciesMetadata" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
